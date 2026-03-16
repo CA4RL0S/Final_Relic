@@ -85,7 +85,6 @@ Para obtener una copia local y ejecutar el juego, sigue estos pasos.
 
 **Carlos Rivas** 
 
-* **Email:** [carlos@kaelo.app](mailto:carlos@kaelo.app)
 * **Contacto:** [carlosriv082@gmail.com](mailto:carlosriv082@gmail.com)
 * **Sitio Web:** [Final Relic (Próximamente)](#)
 
