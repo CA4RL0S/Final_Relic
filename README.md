@@ -5,103 +5,103 @@
 <h1 align="center">Final Relic</h1>
 
 <p align="center">
-  <strong>An immersive 2D RPG Game built with Flutter and Bonfire.</strong>
+  <strong>Un inmersivo juego RPG 2D construido con Flutter y Bonfire.</strong>
 </p>
 
 <p align="center">
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Made%20with-Flutter-blue.svg" alt="Flutter"></a>
-  <a href="https://flame-engine.org"><img src="https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg" alt="Powered by Flame"></a>
-  <a href="https://pub.dev/packages/bonfire"><img src="https://img.shields.io/badge/Engine-Bonfire-success" alt="Bonfire"></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Hecho%20con-Flutter-blue.svg" alt="Flutter"></a>
+  <a href="https://flame-engine.org"><img src="https://img.shields.io/badge/Impulsado%20por-%F0%9F%94%A5-orange.svg" alt="Powered by Flame"></a>
+  <a href="https://pub.dev/packages/bonfire"><img src="https://img.shields.io/badge/Motor-Bonfire-success" alt="Bonfire"></a>
   <a href="https://opensource.org/licenses/mit-license.php"><img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" alt="MIT Licence"></a>
 </p>
 
 ---
 
-## 📖 About the Project
+## 📖 Acerca del Proyecto
 
-**Final Relic** is an exciting top-down RPG adventure built entirely using **Flutter** and the **Bonfire/Flame** engine. Descend into dark dungeons, battle terrifying monsters ranging from Goblins and Imps to fearsome Bosses, and uncover the mysteries of the final relic. 
+**Final Relic** es una emocionante aventura RPG con vista superior (top-down) construida completamente utilizando **Flutter** y el motor **Bonfire/Flame**. Desciende a mazmorras oscuras, lucha contra monstruos aterradores que van desde Goblins e Imps hasta temibles Jefes, y descubre los misterios de la reliquia final.
 
-This project demonstrates the power of Flutter for 2D game development, featuring complex mechanics, animations, multiple levels, rich audio, and a complete monetization and authentication system.
+Este proyecto demuestra el poder de Flutter para el desarrollo de juegos 2D, presentando mecánicas complejas, animaciones, múltiples niveles, audio envolvente y un sistema completo de monetización y autenticación.
 
-### ✨ Key Features
+### ✨ Características Principales
 
-* **Engaging RPG Mechanics**: Dynamic combat system, varied enemy types (Goblins, Imps, Bosses), and multiple challenging levels.
-* **Cross-Platform**: Playable on Android, iOS, Web, and Desktop (Windows/macOS/Linux).
-* **Multi-language Support**: Fully localized in English, Spanish, and Portuguese.
-* **Cloud & Auth Integration**: Firebase Authentication and Cloud Firestore for saving player progress natively.
-* **Monetization**: Integrated with Google Mobile Ads and PayPal payments.
-* **Controller Support**: Responsive touch controls and gamepad support.
+* **Mecánicas RPG Atractivas**: Sistema de combate dinámico, varios tipos de enemigos (Goblins, Imps, Jefes) y múltiples niveles desafiantes.
+* **Multiplataforma**: Jugable en Android, iOS, Web y Escritorio (Windows/macOS/Linux).
+* **Soporte Multilingüe**: Totalmente localizado en Inglés, Español y Portugués.
+* **Integración en la Nube y Autenticación**: Firebase Authentication y Cloud Firestore para guardar el progreso del jugador de forma nativa.
+* **Monetización**: Integrado con Google Mobile Ads y pagos a través de PayPal.
+* **Soporte para Controles**: Controles táctiles responsivos y soporte para gamepads.
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Empezando
 
-To get a local copy up and running, follow these steps.
+Para obtener una copia local y ejecutar el juego, sigue estos pasos.
 
-### Prerequisites
+### Requisitos Previos
 
 * Flutter SDK (`>=2.12.0 <3.0.0`)
 * Dart SDK
-* A supported IDE (VS Code, Android Studio, or IntelliJ)
+* Un IDE compatible (VS Code, Android Studio o IntelliJ)
 
-### Installation
+### Instalación
 
-1. **Clone the repository**
+1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/your-username/final_relic.git
+   git clone https://github.com/tu-usuario/final_relic.git
    cd final_relic
    ```
 
-2. **Install dependencies**
+2. **Instala las dependencias**
    ```bash
    flutter pub get
    ```
 
-3. **Run the game**
+3. **Ejecuta el juego**
    ```bash
    flutter run
    ```
 
 ---
 
-## 🛠 Tech Stack & Packages
+## 🛠 Tecnologías y Paquetes
 
-**Final Relic** leverages a robust ecosystem of Flutter packages:
+**Final Relic** aprovecha un ecosistema robusto de paquetes de Flutter:
 
-* [**Bonfire**](https://pub.dev/packages/bonfire) - RPG framework built on top of Flame.
-* [**Flame Audio**](https://pub.dev/packages/flame_audio) - Sound effects and background music.
-* [**Firebase Suite**](https://firebase.google.com/) - `firebase_auth`, `cloud_firestore`, `firebase_core`.
-* [**Google Mobile Ads**](https://pub.dev/packages/google_mobile_ads) - Ad integration.
-* [**Flutter PayPal Payment**](https://pub.dev/packages/flutter_paypal_payment) - In-app purchases/payments.
-* [**Shared Preferences**](https://pub.dev/packages/shared_preferences) - Local caching and settings.
+* [**Bonfire**](https://pub.dev/packages/bonfire) - Framework RPG construido sobre Flame.
+* [**Flame Audio**](https://pub.dev/packages/flame_audio) - Efectos de sonido y música de fondo.
+* [**Suite de Firebase**](https://firebase.google.com/) - `firebase_auth`, `cloud_firestore`, `firebase_core`.
+* [**Google Mobile Ads**](https://pub.dev/packages/google_mobile_ads) - Integración de anuncios.
+* [**Flutter PayPal Payment**](https://pub.dev/packages/flutter_paypal_payment) - Compras y pagos en la aplicación.
+* [**Shared Preferences**](https://pub.dev/packages/shared_preferences) - Caché local y configuraciones.
 
-### Assets & Sprites Credits
+### Créditos de Recursos y Sprites
 * [Dungeontileset II](https://0x72.itch.io/dungeontileset-ii)
 * [Simple Dungeon Crawler](https://o-lobster.itch.io/simple-dungeon-crawler-16x16-pixel-pack)
 
 ---
 
-## 👤 Author 
+## 👤 Autor 
 
 **Carlos Rivas** 
 
 * **Email:** [carlos@kaelo.app](mailto:carlos@kaelo.app)
-* **Contact:** [carlosriv082@gmail.com](mailto:carlosriv082@gmail.com)
-* **Website:** [Final Relic (Coming Soon)](#)
+* **Contacto:** [carlosriv082@gmail.com](mailto:carlosriv082@gmail.com)
+* **Sitio Web:** [Final Relic (Próximamente)](#)
 
 ---
 
-## 🐛 Issues & Support
+## 🐛 Reporte de Problemas y Soporte
 
-If you encounter any bugs, have feature requests, or need support, please use the GitHub Issues tracker.
+Si encuentras algún error, tienes solicitudes de nuevas características o necesitas soporte, por favor utiliza el rastreador de Issues de GitHub.
 
-* **Issues:** [GitHub Issues](https://github.com/your-username/final_relic/issues)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+* **Issues:** [GitHub Issues](https://github.com/tu-usuario/final_relic/issues)
 
 ---
-<p align="center">Made with ❤️ by Carlos Rivas</p>
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+<p align="center">Hecho con ❤️ por Carlos Rivas</p>
