@@ -1,0 +1,16 @@
+{
+    "columns": 22,
+    "image": "Water_coasts_animation copy.png",
+    "imageheight": 448,
+    "imagewidth": 352,
+    "margin": 0,
+    "name": "Water_coasts_animation copy",
+    "spacing": 0,
+    "tilecount": 616,
+    "tiledversion": "1.11.2",
+    "tileheight": 16,
+    "tilewidth": 16,
+    "transparentcolor": "#ff00ff",
+    "type": "tileset",
+    "version": "1.10"
+}

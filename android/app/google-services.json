@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640756310284",
+    "project_id": "final-relic",
+    "storage_bucket": "final-relic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640756310284:android:b60433d2991f37a6ab6929",
+        "android_client_info": {
+          "package_name": "com.final.relic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYB0ep3T8ZN7VNRzKBmIvmDOCV-yR6KS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
